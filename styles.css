@@ -2,7 +2,13 @@ div{width:90%;margin:auto;}
 
 ul{
     list-style-type: none;
+    padding-left: 25px;
+    margin-top: 0.5em;
+}
 
+p{
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 }
 
 .tags{
